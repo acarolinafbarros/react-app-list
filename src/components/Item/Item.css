@@ -1,0 +1,40 @@
+.item {
+    background: white;
+    margin-top: 20px;
+    padding: 20px;
+    min-height: 100px;
+}
+
+.firstContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.description {
+    font-size: 18px;
+}
+
+.secondContainer {
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+}
+
+.subscriptionName {
+    margin-right: 5px;
+}
+
+.subscriptionPrice {
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.name {
+    color: #4bc3c9;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.category {
+    color: #4bc3c9;
+}

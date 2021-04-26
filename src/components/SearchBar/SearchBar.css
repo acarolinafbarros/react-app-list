@@ -1,0 +1,13 @@
+
+.input {
+    font-size: 1rem;
+    font-weight: 300;
+    background-clip: padding-box;
+    transition: all .2s ease;
+    outline: 0;
+    -webkit-appearance: none;
+    resize: none;
+    padding: 1rem;
+    border: 1px solid var(--gray);
+    width: 300px;
+}
